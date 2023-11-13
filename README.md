@@ -6,15 +6,15 @@
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bquirosa&label=Profile%20views&color=0e75b6&style=plastic" alt="bquirosa" /> </p>
 
-## 📊 Github Stats
+## 📊 Github Stats:
 <div align="center">
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bquirosa&theme=material-palenight" alt="bquirosa"  /></p>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bquirosa&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="bquirosa" /></p>
 </div>
 
-## 🛠️ My Skills
+## 🛠️ My Skills:
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
@@ -81,7 +81,7 @@
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Back-End:</h3>
 <p align="center">
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> 
     <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql"
@@ -99,7 +99,7 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Database:</h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -129,7 +129,7 @@
   </a> 
 </p>
 
-<h3 align="center">Testing</h3>
+<h3 align="center">Testing:</h3>
 <p align="center"> 
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
@@ -145,7 +145,7 @@
   </a> 
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control & CI/CD:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -168,7 +168,7 @@
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs & Tools:</h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
