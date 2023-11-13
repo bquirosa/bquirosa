@@ -47,6 +47,9 @@
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss" alt="tailwind"/> 
+  </a>
   <a href="https://babeljs.io/" target="_blank">
     <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
   </a>
@@ -64,10 +67,18 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
+  <a href="https://webassembly.org/" target="_blank">
+    <img src="https://img.shields.io/badge/WebAssembly-purple?style=for-the-badge&logo=webassembly&logoColor=white"
+      alt="webassembly"/>
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql"
+      alt="sql"/> 
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
@@ -111,6 +122,14 @@
   <a href="https://www.selenium.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
+  </a>
+  <a href="https://jasmine.github.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/jasmine-purple?style=for-the-badge&logo=jasmine"
+      alt="jasmine" /> 
+  </a> 
+  <a href="http://karma-runner.github.io/6.4/index.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/karma-cian?style=for-the-badge&logo=karma"
+      alt="karma" /> 
   </a> 
 </p>
 
@@ -131,6 +150,10 @@
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white"
+      alt="bitbucket"/>
+  </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -150,6 +173,12 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="windows"/>
+  </a>
+  <a href="https://www.apple.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/MacOS-grey?style=for-the-badge&logo=macos" alt="macos"/>
   </a>
 </p>
 
