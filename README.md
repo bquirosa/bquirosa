@@ -36,6 +36,10 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust"
+      alt="rust"/>
+  </a>
 </p>
 
 <h3 align="center">Front-End</h3>
@@ -70,6 +74,10 @@
   <a href="https://webassembly.org/" target="_blank">
     <img src="https://img.shields.io/badge/WebAssembly-purple?style=for-the-badge&logo=webassembly&logoColor=white"
       alt="webassembly"/>
+  </a>
+  <a href="https://gulpjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=Gulp&logoColor=white"
+      alt="gulp"/>
   </a>
 </p>
 
@@ -114,6 +122,10 @@
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
+  </a>
+  <a href="https://vercel.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel"
+      alt="vercel"/> 
   </a> 
 </p>
 
