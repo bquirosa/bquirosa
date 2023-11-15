@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<h3 align="center">Front-End</h3>
+<h3 align="center">Front-End:</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -142,6 +142,10 @@
   <a href="http://karma-runner.github.io/6.4/index.html" target="_blank"> 
     <img src="https://img.shields.io/badge/karma-cian?style=for-the-badge&logo=karma"
       alt="karma" /> 
+  </a> 
+   <a href="https://www.cypress.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/cypress-black?style=for-the-badge&logo=cypress"
+      alt="cypress" /> 
   </a> 
 </p>
 
